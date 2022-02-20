@@ -1,0 +1,18 @@
+# The Excel files
+method-excel/
+method-pandas/
+
+data/hashes/
+
+# c
+*.o
+*.obj
+*.exe
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+#
+*.7z
